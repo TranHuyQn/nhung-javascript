@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f012fee4-1bd5-41bb-8994-5e62f0b73f41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bai2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai3/bai3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,8 +17,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bai3/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
@@ -24,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bai2/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bai3/bai3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="34">
+              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -39,6 +41,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -50,12 +53,14 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/bai2/index.html" />
+        <option value="$PROJECT_DIR$/bai3/index.html" />
+        <option value="$PROJECT_DIR$/bai3/bai3.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-339" />
-    <option name="y" value="9" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="67" />
+    <option name="y" value="108" />
     <option name="width" value="984" />
     <option name="height" value="688" />
   </component>
@@ -75,7 +80,7 @@
             <path>
               <item name="nhung-javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="nhung-javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="bai2" type="462c0819:PsiDirectoryNode" />
+              <item name="bai3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -112,22 +117,22 @@
       <option name="presentableId" value="Default" />
       <updated>1561430411005</updated>
       <workItem from="1561430413999" duration="82000" />
-      <workItem from="1561430497758" duration="1599000" />
+      <workItem from="1561430497758" duration="2879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1681000" />
+    <option name="totallyTimeSpent" value="2961000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="830" height="735" extended-state="0" />
+    <frame x="67" y="108" width="984" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41287878" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34566596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -155,8 +160,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bai2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="153">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai3/bai3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
